@@ -1,0 +1,4 @@
+local_store.db
+*.bak
+__pycache__/
+.venv/
