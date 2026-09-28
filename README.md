@@ -1,5 +1,7 @@
 # Claude + SQLite (local MCP project)
+![SQL Assistant desktop app](sql_assistant_preview.png)
 
+Includes **SQL Assistant**, a desktop app that turns plain-English questions into SQL using the Claude API. See [SQL_ASSISTANT.md](SQL_ASSISTANT.md).
 Ask Claude Desktop questions about a local database in plain English. Claude reads the schema,
 writes the SQL, runs it, and shows you the results. No server, ports, or passwords required.
 
